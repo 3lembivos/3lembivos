@@ -14,7 +14,7 @@ I am a PhD candidate in Evolutionary Biology from the University of Zurich, with
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexpluess).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-plüss).
 
 
 <!--
